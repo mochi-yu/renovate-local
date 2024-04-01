@@ -1,0 +1,2 @@
+# renovate-local
+パッケージのバージョン管理ツールRenovateを、GitHub Appsに導入しないで変更を一覧するためのツール
